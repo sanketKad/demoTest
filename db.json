@@ -1,4 +1,4 @@
-{
+{posts:[{
       "id": "n1",
       "name": "Su Miao",
 	  "department":"Tesla",
@@ -9,4 +9,5 @@
         { "id": "n3","name": "Hei Hei", "department":"Tesla", "title": "department engineer", "relationship": "111" },
 		{ "id": "n30","name": "Hei Hei", "department":"Tesla", "title": "senior engineer", "relationship": "110" }
       ]
-    }
+    }]
+}
